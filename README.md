@@ -17,7 +17,6 @@
 <h2> Certifications</h2>
 
 - [Google Cybersecurity Professional Certificate](https://coursera.org/share/74737d828cdd35b18c4bb51b19ad888a)
-<img>
 
 <h2> 🤳 Connect with me:</h2>
 
