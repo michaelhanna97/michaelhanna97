@@ -12,12 +12,12 @@
 - <b>E-Commerce Database Vulnerability Assessment & Remediation Plan</b>
   - [Vulnerability Assessment Report](https://github.com/michaelhanna97/database-vulnerability-assessment)
 - <b>Python Algorithm for Automating IP Allow List Management</b>
-  - [Algorithm for File Updates in Python]
+  - [Algorithm for File Updates in Python](https://github.com/michaelhanna97/python-allowlist-automation)
 
 <h2> Certifications</h2>
 
-- <b> [Google Cybersecurity Professional Certificate](https://coursera.org/share/74737d828cdd35b18c4bb51b19ad888a)</b>
-  - 
+- [Google Cybersecurity Professional Certificate](https://coursera.org/share/74737d828cdd35b18c4bb51b19ad888a)
+  - [Certificate](https://github.com/michaelhanna97/Google-Cybersecurity-Professional-Certificate)
 
 <h2> 🤳 Connect with me:</h2>
 
