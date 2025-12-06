@@ -1,7 +1,7 @@
 <h1>Hi, I'm Michael! </h1>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b> NIST Cybersecurity Framework Internal Audit – Botium Toys Case Study</b>
+- <b> [NIST Cybersecurity Framework Internal Audit – Botium Toys Case Study](https://github.com/YOURUSERNAME/botium-toys-nist-csf-audit)</b>
   - Controls and Compliance Checklist
 - <b>DDoS Incident Analysis & NIST CSF Security Improvement Plan</b>
   - Incident Report Analysis
