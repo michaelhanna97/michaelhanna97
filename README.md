@@ -4,19 +4,20 @@
 - <b> NIST Cybersecurity Framework Internal Audit – Botium Toys Case Study</b>
   - [Controls and Compliance Checklist](https://github.com/michaelhanna97/botium-toys-nist-csf-audit)
 - <b>DDoS Incident Analysis & NIST CSF Security Improvement Plan</b>
-  - Incident Report Analysis
+  - [Incident Report Analysis](https://github.com/michaelhanna97/ddos-incident-report-analysis)
 - <b>Using Linux Commands to Manage and Audit File Permissions</b>
-  - File Permissions in Linux
+  - [Reviewing and correcting file & directory permissions in Linux](https://github.com/michaelhanna97/linux-file-permissions-audit)
 - <b>SQL Filtering for Security Analysis — Login & Employee Data Investigation</b>
-  - Apply Filters to SQL queries
+  - [Apply filters to SQL queries](https://github.com/michaelhanna97/sql-security-analysis-filters)
 - <b>E-Commerce Database Vulnerability Assessment & Remediation Plan</b>
-  - Vulnerability Assessment Report
+  - [Vulnerability Assessment Report](https://github.com/michaelhanna97/database-vulnerability-assessment)
 - <b>Python Algorithm for Automating IP Allow List Management</b>
-  - Algorithm for File Updates in Python
+  - [Algorithm for File Updates in Python]
 
 <h2> Certifications</h2>
 
-- [Google Cybersecurity Professional Certificate](https://coursera.org/share/74737d828cdd35b18c4bb51b19ad888a)
+- <b> [Google Cybersecurity Professional Certificate](https://coursera.org/share/74737d828cdd35b18c4bb51b19ad888a)</b>
+  - 
 
 <h2> 🤳 Connect with me:</h2>
 
